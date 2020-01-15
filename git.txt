@@ -1,0 +1,19 @@
+Git usefull commands:
+
+git status
+git add .
+git rm SOMETHING
+git init ->(reinitialize or start)
+git gc ->(Cleanup unnecessary files and optimize the local repository)
+git restore|revert
+git config
+git request-pull
+git fetch-pack ->(Receive missing objects from another repository)
+git check-attr ->(Display gitattributes information)
+git mergetool ->(Run merge conflict resolution tools to resolve merge conflicts)
+git cat-file ->(Provide content or type and size information for repository objects)
+git ls-files ->(Show information about files in the index and the working tree)
+git pack-redundant ->(Find redundant pack files)
+git var ->(Show a Git logical variable)
+
+
